@@ -21,7 +21,8 @@ root folder of the project run following command
 ## Test ***/students*** and ***/students/{id}*** end points
 
 * **http://127.0.0.1:8000/students**
-* * **http://127.0.0.1:8000/students/{id}** // replace {id} with an object id in the database
+* **http://127.0.0.1:8000/students/{id}** // replace {id} with an object id in the database
+* and other end points for post, put and delete end points
 
 
 ## More TODO 
