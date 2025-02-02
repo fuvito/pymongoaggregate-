@@ -1,0 +1,12 @@
+# All Students
+GET http://localhost:8000/students
+Accept: application/json
+
+###
+
+###
+### Get One Specific Student
+GET http://localhost:8000/students/679d308733082c1df32f6ad6
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
